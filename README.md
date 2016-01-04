@@ -1,4 +1,4 @@
-# ![PanamaJS](https://avatars1.githubusercontent.com/u/5302782)
+# ![PanamaJS](https://avatars1.githubusercontent.com/u/5302782?v=3&s=300)
 Respositiorio de la comunidad de [PanamaJS](http://panamajs.com).
 
 
